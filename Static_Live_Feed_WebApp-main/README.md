@@ -3,8 +3,17 @@
 <img src="./static/ClassLogo.png" alt="CNT4713 LOGO" />
 </p>
 
+- John Kapish
+- CNT 4713
+- Professor Balmaceda
+- 07/25/21
+
+Much of this project structure was provided by Jose Hernandez so I would like to acknowledge and thank him for that.
+
+
+
 This is a simple web application where I am hosting a static & live feed.
-Pretty much you'll see a video of me back from 2006 when my band tried our luck at a Battle of the Bands.
+The static video provided is a funny short showing a boat doing a wheelie.
 I'm also live-streaming from my webcam using openCV & Ngrok.
 
 The website is <a href="https://newappv.herokuapp.com">here</a>.
